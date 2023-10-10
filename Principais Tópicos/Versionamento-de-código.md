@@ -27,4 +27,3 @@ Isso permite a edição mesmo com o servidor offline.
 Neste sistema, é possível clonar o repositório completo, o que inclui o histórico das alterações.
 
 Cada clone funciona como um backup, possibilitando um fluxo de trabalho mais flexível.
-

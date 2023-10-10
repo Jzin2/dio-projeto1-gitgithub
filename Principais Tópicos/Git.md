@@ -24,7 +24,18 @@ $ git config --global user.name "seu-nome"
 Alterar e-mail pelo comando: 
 $ git config --global user.email seu-mail@provedor.com
 
+Para verificar nome e e-mail:
+$ git config user.name
 
+$ git config user.email
+
+### 2º Definir nome da branch:
+$ git config --global init.defaultBranch nome
+
+por padrão o nome será master ou main
+
+Mais informação: https://git-scm.com/docs/git-config
+Primeiro Setup: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 # Links
 
